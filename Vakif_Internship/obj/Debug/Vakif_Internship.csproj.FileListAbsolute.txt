@@ -1,0 +1,9 @@
+C:\Users\Emre Mert\source\repos\FORMS_CALİSMA\Vakif_Internship\bin\Debug\Vakif_Internship.exe
+C:\Users\Emre Mert\source\repos\FORMS_CALİSMA\Vakif_Internship\bin\Debug\Vakif_Internship.pdb
+C:\Users\Emre Mert\source\repos\FORMS_CALİSMA\Vakif_Internship\obj\Debug\Vakif_Internship.csproj.AssemblyReference.cache
+C:\Users\Emre Mert\source\repos\FORMS_CALİSMA\Vakif_Internship\obj\Debug\Vakif_Internship.Form1.resources
+C:\Users\Emre Mert\source\repos\FORMS_CALİSMA\Vakif_Internship\obj\Debug\Vakif_Internship.Properties.Resources.resources
+C:\Users\Emre Mert\source\repos\FORMS_CALİSMA\Vakif_Internship\obj\Debug\Vakif_Internship.csproj.GenerateResource.cache
+C:\Users\Emre Mert\source\repos\FORMS_CALİSMA\Vakif_Internship\obj\Debug\Vakif_Internship.csproj.CoreCompileInputs.cache
+C:\Users\Emre Mert\source\repos\FORMS_CALİSMA\Vakif_Internship\obj\Debug\Vakif_Internship.exe
+C:\Users\Emre Mert\source\repos\FORMS_CALİSMA\Vakif_Internship\obj\Debug\Vakif_Internship.pdb
